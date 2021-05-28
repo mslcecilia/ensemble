@@ -16,9 +16,12 @@ dependencies:
   - scikit-learn
   - sympy
   - seaborn
-  - t2grids
-  - t2data
-  - t2listing
   - iapws
   - bisect
   - time
+  - math
+  - struct
+  - string
+  - geometry
+  - io
+  - sys
